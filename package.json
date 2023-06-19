@@ -1,0 +1,26 @@
+{
+  "name": "selenium-testing",
+  "version": "1.0.0",
+  "description": "desenvolvendo automação com selenium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelaramos200/selenium-testing.git"
+  },
+  "keywords": [
+    "node",
+    "selenium"
+  ],
+  "author": "manuela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelaramos200/selenium-testing/issues"
+  },
+  "homepage": "https://github.com/manuelaramos200/selenium-testing#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.10.0"
+  }
+}
