@@ -1,0 +1,16 @@
+node_modules 
+
+
+git status: ver o historico do que vc fez no codigo
+
+vermelho: não adiciou eles para subir
+
+
+git add <nome do arquivo> 
+
+verde: e pq a gente adicionou na stage(na bolsinha)
+
+git commit: explicar o que se fez ali
+
+
+git push: subir os arquivos no github
